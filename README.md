@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24,30&height=220&section=header&text=(｡•́‿•̀｡)%20RISHABH%20(｡•́‿•̀｡)&fontSize=40&fontAlignY=38&animation=twinkling&desc=🎧%20Only%20Real%20Vibe%20%7C%20Creative%20Explorer%20%7C%20Tech%20%26%20Design&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24,30&height=220&section=header&text=(｡•́‿•̀｡)%20ashish%20(｡•́‿•̀｡)&fontSize=40&fontAlignY=38&animation=twinkling&desc=🎧%20Only%20Real%20Vibe%20%7C%20Creative%20Explorer%20%7C%20Tech%20%26%20Design&descAlignY=62&descAlign=50" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -12,7 +12,7 @@
 
 <!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="https://www.instagram.com/only_rishabh_417/" target="_blank">
+  <a href="https://www.instagram.com/13__ashi08/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/mrashi354" target="_blank">
@@ -35,17 +35,17 @@
 ### 💫 About Me
 
 ```yaml
-Name: Rishabh (｡•́‿•̀｡)
+Name: ashish (｡•́‿•̀｡)
 Vibe: 🎧 On Loop | Creative Mindset | Hip-Hop & Cypher Energy
-Focus: Tech, Design, Web Development & AI Tools
-Instagram: @only_rishabh_417
+Focus: Design, Web Development & AI Tools
+Instagram: @ex_ashi_08
 Current Mission: Creating aesthetic digital experiences and cool projects
 ```
 
 - 🎧 **Vibe:** "Only real vibe support" — Focused on clean aesthetics, good music & building cool stuff.
 - 💻 **Passionate about:** Modern Web Experiences, Interactive UI/UX, and creative coding.
 - 🚀 **Learning & Building:** Exploring the latest tech tools, creative design, and digital creation.
-- 💬 **Connect with me:** Drop a message on [Instagram](https://www.instagram.com/only_rishabh_417/) or collaborate on GitHub!
+- 💬 **Connect with me:** Drop a message on [Instagram](https://www.instagram.com/only_13__ashi08/) or collaborate on GitHub!
 
 ---
 
@@ -102,7 +102,7 @@ Current Mission: Creating aesthetic digital experiences and cool projects
   Let's connect and create something awesome together!
   <br/><br/>
   <a href="https://www.instagram.com/only_rishabh_417/" target="_blank">
-    <img src="https://img.shields.io/badge/DM%20on%20Instagram-@only__rishabh__417-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/DM%20on%20Instagram-@13__ashi08-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
