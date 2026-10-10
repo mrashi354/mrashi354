@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24,30&height=220&section=header&text=(｡•́‿•̀｡)%20ashish%20(｡•́‿•̀｡)&fontSize=40&fontAlignY=38&animation=twinkling&desc=🎧%20Only%20Real%20Vibe%20%7C%20Creative%20Explorer%20%7C%20Tech%20%26%20Design&descAlignY=62&descAlign=50" width="100%"/>
-
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=620&lines=(%EF%BD%A1%E2%80%A2%CC%81%E2%80%BF%E2%80%A2%CC%80%EF%BD%A1)+Welcome+to+my+Profile!;%F0%9F%8E%A7+On+Loop+%E2%80%A2+Only+Real+Vibe+Support;Creative+Developer+%26+Digital+Creator;Building+Cool+Projects+%26+Aesthetic+Designs;Always+Exploring+New+Ideas+%E2%9C%A8" alt="Typing SVG" />
