@@ -20,10 +20,7 @@
   </a>
 </p>
 
-<!-- PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrashi354&style=flat-square&color=00b4d8&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+
 
 </div>
 
